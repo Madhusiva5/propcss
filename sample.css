@@ -1,0 +1,14 @@
+h1{
+    text-align:right;
+    color: fuchsia;
+}
+paragraph{
+    color:deeppink;
+}
+div{
+  background-color:greenyellow;
+  width: 300px;
+  border: 15px solid blueviolet;
+  padding: 50px;
+  margin: 20px;
+}
